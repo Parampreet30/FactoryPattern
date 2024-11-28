@@ -4,7 +4,7 @@ public class FileStorage : IStorage
 {
     public int GetStorage()
     {
-        return 2;
+        return 1;
     }
 
     public void SaveData(string data)
